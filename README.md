@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @njesheamal
-- 👀 I’m interested in programming (of course), art, design, nature, and God (in no particular order)
-- 🌱 I’m currently learning Python through Zero to Mastery (aka ZTM), and I will most likely tackle Golang after that.
+- 👀 I’m interested in programming (of course), art, design, nature, and fulfilling my purpose.
+- 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on projects related to machine learning, ar, and ai...(FUTURE *squidward voice*)
 - 📫 How to reach me -> DM me on instagram @njesheamal
 
