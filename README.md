@@ -1,6 +1,6 @@
 - 👋🏾 Hi, I’m @njesheamal
 - 👀 I’m interested in programming (of course), art, design, nature, and fulfilling my purpose.
-- 🌱 I’m currently learning Kubernetes.
+- 🌱 I’m currently learning ROS 2.
 - 💞️ I’m looking to collaborate on projects related to machine learning, ar, and ai...(FUTURE *squidward voice*)
 - 📫 How to reach me -> Email me njesheamal@gmail.com or DM me on LinkedIn!
 
